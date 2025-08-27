@@ -15,9 +15,8 @@ This repository provides an Automatic Speech Recognition (ASR) system for Amhari
 
 
 Clone the repo and install dependencies:
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-pip install -r requirements.txt
+git clone https://github.com/snoozypanda/Speech-To-Text/
+pip install 
 Main dependencies:
 Python 3.9+
 PyTorch
