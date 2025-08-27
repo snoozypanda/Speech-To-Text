@@ -1,0 +1,58 @@
+{
+  "train": [
+    {
+      "path": "/content/Dataset/train/wav/﻿",
+      "sentence": "106 ከ ትምክህት እንዳይ ቆጠር ብን እንጂ በ አለም ታሪክ ውስጥ በ ነጮች ያል ተረገጠ ች አገር ኢትዮጵያ ና ት"
+    },
+    {
+      "path": "/content/Dataset/train/wav/107",
+      "sentence": "እህቶቹ የኤርትራ ዜጐች ና የ ሻእቢያ ደጋፊዎች ናቸው"
+    },
+    {
+      "path": "/content/Dataset/train/wav/108",
+      "sentence": "እናንተ ም መቀበሪያ እንዳ ታጡ ተጠንቀቁ"
+    },
+    {
+      "path": "/content/Dataset/train/wav/109",
+      "sentence": "አንቶኔሊ በ አጼ ምንሊክ ፊት የ ፈጸመው ድፍረት በ ኢጣሊያ ን ምክር ቤት አስተ ቸው"
+    },
+    {
+      "path": "/content/Dataset/train/wav/110",
+      "sentence": "ግን ወደ ኋላው ላይ ኢሳያስ እንደ ልማ ዳቸው ሁሉን ም የ መልከ ፍ ዲፕሎማሲ ያቸው እስራኤል ንም ያስ ወር ፋቸው ጀመር"
+    },
+    {
+      "path": "/content/Dataset/train/wav/111",
+      "sentence": "ከ የ አቅጣጫ ው እየ ደረሷቸው ያሉ መረጃዎች አሳሳቢ ችግሮች እየ ደረሱ መሆናቸው ን የሚ ጠቁሙ መሆናቸው ን ፕሬዝዳንቱ ተናግረ ዋል"
+    },
+    {
+      "path": "/content/Dataset/train/wav/112",
+      "sentence": "ከ ማወቁ በፊት እንደ ተበጠበጠ ገበያ እንዳይ በታተን ይህ ነው አጀንዳ ችን ሌላ አጀንዳ የ ለ ንም"
+    },
+    {
+      "path": "/content/Dataset/train/wav/113",
+      "sentence": "ኢትዮጵያ ም ሰራዊቷ በ ኤርትራ እንደሚ ገኝ አል ካደ ችም"
+    }
+  ],
+  "test": [
+    {
+      "path": "/content/Dataset/test/wav/﻿001",
+      "sentence": "ያንደኛ ደረጃ ትምህርታቸው ን ጐንደር ተ ም ረዋል"
+    },
+    {
+      "path": "/content/Dataset/test/wav/002",
+      "sentence": "የተ ለቀቁት ምርኮኞች በ አካባቢያቸው ሰላማዊ ኑሮ እንዲ ኖሩ የ ትራንስፖርት ና መጓጓዣ ገንዘብ ተሰጥቷ ቸው መሸኘታቸው ን አመልክቶ በ የ ዞ ናቸው እንደ ደረሱ መቃቋሚያ እንደሚ ሰጣቸው ም አስ ታውቋል"
+    },
+    {
+      "path": "/content/Dataset/test/wav/003",
+      "sentence": "በ አዲስ አበባው ስታዲየም በ ተካሄዱ ት ሁለት ግጥሚያ ዎች በ መጀመሪያ የ ተገናኙ ት መድን ና ሙገር ሲሚንቶ ሲ ሆኑ በ ውጤቱ ም ሶስት ለ ሶስት ተለያይ ተዋል"
+    },
+    {
+      "path": "/content/Dataset/test/wav/004",
+      "sentence": "ወሬው ን ወሬ ያደረጉ ምስጢረ ኞች ናቸው"
+    },
+    {
+      "path": "/content/Dataset/test/wav/005",
+      "sentence": "ኢትዮጵያዊ ቷ በ ብሄራዊ ባህላዊ አለባበስ ከ አለም አንደኝነት ን ተቀዳጀ ች"
+    }
+  ]
+}
