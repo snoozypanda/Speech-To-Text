@@ -1,4 +1,8 @@
 Amharic Speech-to-Text (ASR) with Wav2Vec2
+
+
+
+
 This repository provides an Automatic Speech Recognition (ASR) system for Amharic built using Facebook’s Wav2Vec2.0 model fine-tuned on Amharic speech datasets. The project aims to make Amharic speech recognition accessible and open-source, supporting low-resource language research and real-world applications.
 
 
